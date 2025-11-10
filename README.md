@@ -29,6 +29,10 @@ This is a Python application designed to automatically update the status of test
     - Method2: Manually enter the "Test Case ID", "Status", and "Comment" for a single test case, then click the Add button.
 3. Execute the Update: Once you have confirmed the data in the table, click the Run button in the bottom-right corner.
 4. Review Results: A message box will pop up to let you know if the update was successful. Any IDs that could not be updated will be printed to the console.
+<img width="1832" height="488" alt="image" src="https://github.com/user-attachments/assets/a12348e2-ac05-43f6-b3dd-14825fc20350" />
+<img width="1266" height="283" alt="image" src="https://github.com/user-attachments/assets/3e38a47c-229f-4101-badd-faadda54170d" />
+<img width="796" height="622" alt="image" src="https://github.com/user-attachments/assets/0416af85-372f-4680-8c40-838794de25a4" />
+<img width="959" height="608" alt="image" src="https://github.com/user-attachments/assets/ddfabd13-0089-45a8-a89c-7528d5e247a4" />
 
 ### Before You Start
 Before using this application, please configure the following required settings:
@@ -37,4 +41,3 @@ Before using this application, please configure the following required settings:
 - CODEBEAMER_URL: Open codebeamer_client.py and set the URL of your organization's CodeBeamer API server.
 Example: https://alm.<company_name>.com/cb/api/v3/
 
-<img width="1832" height="488" alt="image" src="https://github.com/user-attachments/assets/a12348e2-ac05-43f6-b3dd-14825fc20350" />
