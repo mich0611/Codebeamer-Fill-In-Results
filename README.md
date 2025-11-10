@@ -36,3 +36,5 @@ Before using this application, please configure the following required settings:
 - USERNAME and PASSWORD: Open main.py and enter your CodeBeamer account username and password.
 - CODEBEAMER_URL: Open codebeamer_client.py and set the URL of your organization's CodeBeamer API server.
 Example: https://alm.<company_name>.com/cb/api/v3/
+
+<img width="1832" height="488" alt="image" src="https://github.com/user-attachments/assets/a12348e2-ac05-43f6-b3dd-14825fc20350" />
